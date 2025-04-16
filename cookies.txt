@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	NID	521=uiuu2CHOI5Nm1YQYFOGLJtWXb4DY4AgGZmaFwqnaAnNPK96gER2y5xPoW7Gwsnr2dCh9ckTgAINgrnS-LpfUgjdodw05sSX9b1oCdcEqnRqf-ehjAjCROvPA52B2O7F0Rq1JvPlMAIvwawll5lImNEDSpOeFjPPT-TfFxvh3J6VnNVc3UsEGR13p5V5qCqHCkZJ9eB2wkVRivg
+.facebook.com	TRUE	/	FALSE	1999999999	noscript	1
+www.northwood.ltd	TRUE	/	FALSE	1999999999	SameSite	None
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	_cfuvid	PNfwlKCns2kttObOKhEJKDDB11_.f3J_XAKdPIsMRiw-1738891847601-0.0.1.1-604800000
+www.betheanomaly.io	TRUE	/	FALSE	1999999999	SameSite	None
+.facebook.com	TRUE	/	FALSE	1999999999	sb	b2KlZ3mGmD-aQiY3H8uq3d3c
+

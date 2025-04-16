@@ -1,0 +1,438 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 06 Feb 2025 17:28:39 at https://www.northwood.ltd/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://www.northwood.ltd/* +*broadstonelandscape.com*
+
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://www.northwood.ltd/ -O1 "C:\Website Development Feb 2025\Broadstone Feb 6 2025\Broadstone Feb 6 2025" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://www.northwood.ltd/* +*broadstonelandscape.com* )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+17:29:13	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://www.northwood.ltd/)
+
+17:29:13	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://www.northwood.ltd/)
+
+17:29:13	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.northwood.ltd/)
+
+17:29:34	Warning: 	Found for https://www.instagram.com/robots.txt
+
+17:29:34	Warning: 	File has moved from https://www.instagram.com/robots.txt to https://www.facebook.com/unsupportedbrowser
+
+17:29:34	Warning: 	Found for https://www.instagram.com/broadstonelandscape/
+
+17:29:34	Warning: 	File has moved from https://www.instagram.com/broadstonelandscape/ to https://www.facebook.com/unsupportedbrowser
+
+17:31:01	Error: 	"Forbidden" (403) at link https://cdn.prod.website-files.com/671a91ee07626cd6dad29988/671aa8bf8e3252fa1258dec7_e0c0be8ac6af3f2e7d73bf3696b96312 (1 (from https://cdn.prod.website-files.com/671a91ee07626cd6dad29988/css/broadstone-landscape.543328a1e.css)
+
+17:31:01	Error: 	"Forbidden" (403) at link https://cdn.prod.website-files.com/671a91ee07626cd6dad29988/671d0413ba28fa82469d6409_dce0d0d756098572ffd2eedc7e5deacd (1 (from https://cdn.prod.website-files.com/671a91ee07626cd6dad29988/css/broadstone-landscape.543328a1e.css)
+
+17:31:01	Error: 	"Forbidden" (403) at link https://cdn.prod.website-files.com/671a91ee07626cd6dad29988/671e6b0d420cf85029eade9f_wall1 (1 (from https://cdn.prod.website-files.com/671a91ee07626cd6dad29988/css/broadstone-landscape.543328a1e.css)
+
+17:31:01	Error: 	"Forbidden" (403) at link https://cdn.prod.website-files.com/671a91ee07626cd6dad29988/671fd78e701ba0bf585c7690_444 (1 (from https://cdn.prod.website-files.com/671a91ee07626cd6dad29988/css/broadstone-landscape.543328a1e.css)
+
+17:31:15	Warning: 	Found for https://www.facebook.com/data/manifest/
+
+17:31:15	Warning: 	File has moved from https://www.facebook.com/data/manifest/ to https://www.facebook.com/unsupportedbrowser
+
+17:32:18	Warning: 	Found for https://www.facebook.com/
+
+17:32:18	Warning: 	File has moved from https://www.facebook.com/ to https://www.facebook.com/unsupportedbrowser
+
+17:32:24	Error: 	"Forbidden" (403) at link https://cdn.prod.website-files.com/671fdbbc90df902a548c3a33/677314116f5bbcbd74a59db7_The+Perfect+Lawn+in+Six+Steps+3-27-20.jpg (from https://www.northwood.ltd/blog)
+
+17:32:48	Error: 	"Not Found" (404) at link https://www.betheanomaly.io/"https://cdn.prod.website-files.com/671edfa46ed8d27b6f2a3577%2F673d4d5e1feac46d9f1554ad_test2jilhu1027-poster-00001.jpg" (from https://www.betheanomaly.io/)
+
+17:33:15	Warning: 	Found for https://www.facebook.com/Firefox/
+
+17:33:15	Warning: 	File has moved from https://www.facebook.com/Firefox/ to https://www.facebook.com/unsupportedbrowser
+
+17:33:15	Warning: 	Found for https://www.facebook.com/Edg/
+
+17:33:15	Warning: 	File has moved from https://www.facebook.com/Edg/ to https://www.facebook.com/unsupportedbrowser
+
+17:33:15	Warning: 	Found for https://www.facebook.com/Chrome/
+
+17:33:15	Warning: 	File has moved from https://www.facebook.com/Chrome/ to https://www.facebook.com/unsupportedbrowser
+
+17:33:15	Warning: 	Found for https://www.facebook.com/CriOS/
+
+17:33:15	Warning: 	File has moved from https://www.facebook.com/CriOS/ to https://www.facebook.com/unsupportedbrowser
+
+17:33:15	Warning: 	Found for https://www.facebook.com/Safari/
+
+17:33:15	Warning: 	File has moved from https://www.facebook.com/Safari/ to https://www.facebook.com/unsupportedbrowser
+
+17:33:15	Warning: 	Found for https://www.facebook.com/Version/
+
+17:33:15	Warning: 	File has moved from https://www.facebook.com/Version/ to https://www.facebook.com/unsupportedbrowser
+
+17:33:15	Error: 	"Not Found" (404) at link https://www.facebook.com/chrome-extension:// (from https://static.xx.fbcdn.net/rsrc.php/v4/yl/r/sjpjSqWieQB.js)
+
+17:33:15	Warning: 	Found for https://www.facebook.com/^([^:/?
+
+17:33:15	Warning: 	File has moved from https://www.facebook.com/^([^:/? to https://www.facebook.com/unsupportedbrowser
+
+17:33:15	Warning: 	Found for https://www.facebook.com/nw/
+
+17:33:15	Warning: 	File has moved from https://www.facebook.com/nw/ to https://www.facebook.com/unsupportedbrowser
+
+17:33:15	Error: 	"Not Found" (404) at link https://www.facebook.com/intern/rsrc.php (from https://static.xx.fbcdn.net/rsrc.php/v4/yl/r/sjpjSqWieQB.js)
+
+17:33:15	Error: 	"Not Found" (404) at link https://www.facebook.com/intern/rsrc-translations.php (from https://static.xx.fbcdn.net/rsrc.php/v4/yl/r/sjpjSqWieQB.js)
+
+17:33:15	Warning: 	Found for https://www.facebook.com/ads/manager/account/settings/
+
+17:33:15	Warning: 	File has moved from https://www.facebook.com/ads/manager/account/settings/ to https://www.facebook.com/unsupportedbrowser
+
+17:33:15	Warning: 	Found for https://www.facebook.com/adsmanager/
+
+17:33:15	Warning: 	File has moved from https://www.facebook.com/adsmanager/ to https://www.facebook.com/unsupportedbrowser
+
+17:33:15	Warning: 	Found for https://www.facebook.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+
+17:33:15	Warning: 	File has moved from https://www.facebook.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ to https://www.facebook.com/unsupportedbrowser
+
+17:33:15	Warning: 	Found for https://www.facebook.com/cookie/consent/
+
+17:33:15	Warning: 	File has moved from https://www.facebook.com/cookie/consent/ to https://www.facebook.com/unsupportedbrowser
+
+17:33:15	Error: 	"Not Found" (404) at link https://www.facebook.com/si/linkclick/ajax_callback/ (from https://static.xx.fbcdn.net/rsrc.php/v4i7M54/yV/l/en_US/OSXUHYJFGE-.js)
+
+17:33:15	Error: 	"Not Found" (404) at link https://www.facebook.com/si/ajax/l/ (from https://static.xx.fbcdn.net/rsrc.php/v4/ys/r/ezPctWEb0a3.js)
+
+17:33:15	Warning: 	Found for https://www.facebook.com/l/
+
+17:33:15	Warning: 	File has moved from https://www.facebook.com/l/ to https://www.facebook.com/unsupportedbrowser
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Edg/Edg/Edg/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Edg/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Edg/Edg/Edg/Edg/&q=EgTPBngcGPrGlb0GIjATgCcExbJmp-xxd1omNQrYzjugodrS8r7R292go_1rsKghiJa7oP1xvKtioebnRFQyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Edg/Edg/Firefox/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Edg/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Edg/Edg/Edg/Firefox/&q=EgTPBngcGPrGlb0GIjB_kbxVx07K0hIoeARjVQrDArfPF0Bf4-EL19EOhw6LQ8ae5wyTTFuT79FLRc5Htv0yAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Edg/Firefox/Edg/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Edg/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Edg/Edg/Firefox/Edg/&q=EgTPBngcGPvGlb0GIjC6aQ_gY78-ygIxc8zncsagaxzJd37jJpvXM6NUb9sTHWw3oxdwkI8_SueUnpKPefsyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Edg/Firefox/Firefox/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Edg/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Edg/Edg/Firefox/Firefox/&q=EgTPBngcGPvGlb0GIjDBiZk89sgpd0Yjsuxl96TXq_DWIkza2i84rEq3_JHpFBD-muevRmJoGX4-zY2EF00yAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Firefox/Edg/Edg/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Firefox/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Edg/Firefox/Edg/Edg/&q=EgTPBngcGP3Glb0GIjCrH7Qnzn84mlPuWQYCTgpt0MKfkSUiPP56G6WOegH6U-S-R50wVUnL-VoABVq_3SwyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Firefox/Edg/Firefox/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Firefox/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Edg/Firefox/Edg/Firefox/&q=EgTPBngcGP3Glb0GIjD8JeYHvy6Dai0ceTfIsQzlUfk-mnx6xBjFCLZkgMQxFSLD-7Hu1NKe8QiGLYajM5wyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Firefox/Firefox/Edg/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Firefox/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Edg/Firefox/Firefox/Edg/&q=EgTPBngcGP7Glb0GIjAUkuuRaHE_gngqUgZc12Fe9HkW9qZ2Du5zINXHGB8HOQ73DyMQvXyKqPHTw4_usvgyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Firefox/Firefox/Firefox/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Edg/Firefox/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Edg/Firefox/Firefox/Firefox/&q=EgTPBngcGP7Glb0GIjBFGDPPyRcn9WKrFKG0y0fkK4p_sVg4M1KYaKT2pp0jgJt4FlYHKZiUXpGStFgBnuwyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Edg/Edg/Edg/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Edg/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Firefox/Edg/Edg/Edg/&q=EgTPBngcGIDHlb0GIjD-ce_lKg6U_ybc_j7cylcr3G6Ej1sBJyfLyqOc_TchmDFM56nhPppD7AJSjpWd5BgyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Edg/Edg/Firefox/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Edg/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Firefox/Edg/Edg/Firefox/&q=EgTPBngcGIDHlb0GIjDOm_-BgGIsQkPVD9gW90GNC6toHaNSea6JqrpXx_k7A_BGhDoC0MnDUcfJsOsmuS4yAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Edg/Firefox/Edg/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Edg/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Firefox/Edg/Firefox/Edg/&q=EgTPBngcGILHlb0GIjBDe_Hm2l2V1hSLpQ4f7QcTojY1exDoDM_EIM5NfvjE8Gwl-Ac-k5S5deIUotg4hzYyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Edg/Firefox/Firefox/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Edg/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Firefox/Edg/Firefox/Firefox/&q=EgTPBngcGILHlb0GIjCSm4u1L2EllBfxSw-6VKkvk1EM49GBIrdNMnRkHe6tcQZFrAAFnUMNNuzPRDE-uMEyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Firefox/Edg/Edg/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Firefox/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Firefox/Firefox/Edg/Edg/&q=EgTPBngcGITHlb0GIjDNhF73kPNbyo5ScvUEa8G6YFSUQGgB1VErnJy3t0TemM_JuTUMbT1GBT936e3mXXAyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Firefox/Edg/Firefox/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Firefox/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Firefox/Firefox/Edg/Firefox/&q=EgTPBngcGITHlb0GIjA5GrSOYUIZ7JRlCT0DbKbEcQSidwz997pGegCl-yG3wFbJVn7K4OYxZSuPNQ_MvtsyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Firefox/Firefox/Edg/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Firefox/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Firefox/Firefox/Firefox/Edg/&q=EgTPBngcGIXHlb0GIjCwphlSC1kvjZOAmETvz9zSdeKAngsUk1fnKQGKlcGc5IrQbhIgIVYdPumWVxHNjvAyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Firefox/Firefox/Firefox/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,10z/Firefox/Firefox/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,10z/Firefox/Firefox/Firefox/Firefox/&q=EgTPBngcGIXHlb0GIjAER6qxAlAg22M28Jmja7BAjzvYO6KyIgdmiPzL3JNC-DqmQ7wHp3Lypkd9IVBcf0UyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Edg/Edg/Edg/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Edg/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Edg/Edg/Edg/Edg/&q=EgTPBngcGIfHlb0GIjAMSfdOG3uIN09AV-_vHzpXqPFbAB8yE2gHnL52nKWhoZg-zKbw296smmMCda2-7XEyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Edg/Edg/Firefox/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Edg/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Edg/Edg/Edg/Firefox/&q=EgTPBngcGIfHlb0GIjAZXRizXanv6c0OZXzc7Lm6Ywmd7GXNRYvsZwRQYP8rQt4MmurwG4GMx16COG6N1SoyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Edg/Firefox/Edg/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Edg/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Edg/Edg/Firefox/Edg/&q=EgTPBngcGIjHlb0GIjDMaCMebXMJJrMBOOghlx18W6mcp6l4mJxMuWKQP69EPrjU45sHcWVT6bUBP27Kt_EyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Edg/Firefox/Firefox/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Edg/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Edg/Edg/Firefox/Firefox/&q=EgTPBngcGIjHlb0GIjDvrhiVtjP9LC_UBx5DOuBUnSnck-Xflo0pi4b1T5v5-329KSsxjGtHBps1Ow6klNUyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Firefox/Edg/Edg/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Firefox/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Edg/Firefox/Edg/Edg/&q=EgTPBngcGIrHlb0GIjDt4QsRDtkGWHNZCGdaOKHAYPwDPdjkYhSXFr1Vya7etXZB2TQEkD5G9PrGrb64Z-oyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Firefox/Edg/Firefox/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Firefox/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Edg/Firefox/Edg/Firefox/&q=EgTPBngcGIrHlb0GIjAd1bcDX2yd5AcL-jVJpbIT72tkMPWjDYm15127VVnYBgYgpCZhwuadGBGFTFr93bwyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Firefox/Firefox/Edg/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Firefox/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Edg/Firefox/Firefox/Edg/&q=EgTPBngcGIvHlb0GIjCyK2_by6fVHEkXKSRwIxG3Mv5L8h0ogHpjrz9ssP4xTqaD9-Gq2w0z8uhGswC_mzsyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Firefox/Firefox/Firefox/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Edg/Firefox/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Edg/Firefox/Firefox/Firefox/&q=EgTPBngcGIvHlb0GIjAfYUDw7fSTrmGyOFLD9dPfliLahadQb7Q8HT0oButSAG5E3L2-7Keg-YzJAaojp8UyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Edg/Edg/Edg/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Edg/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Firefox/Edg/Edg/Edg/&q=EgTPBngcGI3Hlb0GIjDneNOVbkg_-coTQ_dp8_yP79JNnX1DVVUB_81s7d98qqxYcVIxZh6YLxzI1YEZitEyAXJaAUM
+
+17:36:52	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Edg/Edg/Firefox/
+
+17:36:52	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Edg/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Firefox/Edg/Edg/Firefox/&q=EgTPBngcGI3Hlb0GIjA1bGOqGPzSHTzMgZ0jqf0ICO3AM4Uqb3C4KnQs_JPjTuvMh2571ecgsnRQKptcrDIyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Edg/Firefox/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Edg/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Firefox/Edg/Firefox/Edg/&q=EgTPBngcGI7Hlb0GIjAmHGpZcsWjHu8S_4XJrMeW_Btx6Mdj2bMa7NgjxMnG-2PB23J5W4lRdIZQqhfcUGMyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Edg/Firefox/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Edg/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Firefox/Edg/Firefox/Firefox/&q=EgTPBngcGI7Hlb0GIjAusaeJgj5bsdta7kj7IzlgE_VDZkx3bLIoL4ozhbxsLHDBcKmKgHgzoKQ4YNIe-6UyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Firefox/Edg/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Firefox/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Firefox/Firefox/Edg/Edg/&q=EgTPBngcGJDHlb0GIjCtTSjIaMNkn6kTkMjYeytLF_r_M6qQJ5Pk2Cl7zhxVDvL1rFvgzuagNQ1juNzR-sgyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Firefox/Edg/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Firefox/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Firefox/Firefox/Edg/Firefox/&q=EgTPBngcGJDHlb0GIjB3PhnYuLM3i2Oq8kMOOSCQp-87PHB1WQGqEhPIdfci1geeT7iRf-4LfG0bogei38QyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Firefox/Firefox/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Firefox/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Firefox/Firefox/Firefox/Edg/&q=EgTPBngcGJHHlb0GIjApRqXT1Iw1G4KnFfRgp4ZrU5JapyW6ZAkybXM7G1sA3JHsi0YJvvZfa7XWatADTIIyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Firefox/Firefox/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Edg/Firefox/Firefox/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Edg/Firefox/Firefox/Firefox/Firefox/&q=EgTPBngcGJHHlb0GIjDJ7FKtMHrrAbexlQ_lpb5o6p2F7R-H96Fs7uSfZeRi88EDz1GfwV0KI63GkyU052AyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Edg/Edg/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Edg/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Edg/Edg/Edg/Edg/&q=EgTPBngcGJPHlb0GIjCTGz6KBna3ENOuG1mHhStzwLIHBpGzSe8GM2UtyDgXSQXvMZ5EO1dhqSS4LbNEL4cyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Edg/Edg/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Edg/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Edg/Edg/Edg/Firefox/&q=EgTPBngcGJPHlb0GIjBWnowsQ6419ANCRCBkxB2jCutjVdcL_xyHwzRWmV68Anaf7qceOFsWnZ0mtLoywqUyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Edg/Firefox/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Edg/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Edg/Edg/Firefox/Edg/&q=EgTPBngcGJTHlb0GIjDAfeQa4Yq6ACnS0QZb2XEB__EPGeIhho_PlvibyfWQkrdQAnPlLomCMoCaYw7llDUyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Edg/Firefox/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Edg/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Edg/Edg/Firefox/Firefox/&q=EgTPBngcGJXHlb0GIjC_v13hFJN9PVzDzPGNgjYwOKiE-ehAYUvLMaG024m68lmCiaMsG9gewaKOoHZ_-OEyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Firefox/Edg/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Firefox/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Edg/Firefox/Edg/Edg/&q=EgTPBngcGJbHlb0GIjCj1q8uvSgLR8GvWkOzHzGhZpgyqiB57JYNAkHzpIvNlkovNLsJzuKfsMJ2JlBO844yAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Firefox/Edg/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Firefox/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Edg/Firefox/Edg/Firefox/&q=EgTPBngcGJbHlb0GIjA3nPzv5Qw0i3DPL-dAI8nHjHH0AXRdNLoLuX4PA9Zpnd4tW7MOJXEw4aYpFZQSPzEyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Firefox/Firefox/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Firefox/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Edg/Firefox/Firefox/Edg/&q=EgTPBngcGJjHlb0GIjA6rSxdPno28fGa12R8lZilvIjn3QRqSkOqltn7T3-D0ng_77lzJv_c3K92YYgk3tUyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Firefox/Firefox/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Edg/Firefox/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Edg/Firefox/Firefox/Firefox/&q=EgTPBngcGJjHlb0GIjCkDb77uzfEgHu859HFWyAUGN8EGRRQueHUNAzeueGAmWueWaFVtCPbjqB_hw-POuwyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Edg/Edg/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Edg/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Firefox/Edg/Edg/Edg/&q=EgTPBngcGJnHlb0GIjAYuZRhEPdpJatvtUuCYOt3m53SGY5Zt_raGDAtN5O3Clyz2tRh3DVHU-qyEhHGWUgyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Edg/Edg/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Edg/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Firefox/Edg/Edg/Firefox/&q=EgTPBngcGJrHlb0GIjAmMTOhsQnjK45fpM5azBaq5DI74w0LR24HXnn6WT7wwPjC2D6_z2OnbVwJGb6wl_kyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Edg/Firefox/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Edg/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Firefox/Edg/Firefox/Edg/&q=EgTPBngcGJvHlb0GIjASqOcWW5ppUL_ffvqNwj7Eaj5a0UJcmRBxreEGeU2WtTiwGFMf9xbk4rWgF_yVLHsyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Edg/Firefox/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Edg/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Firefox/Edg/Firefox/Firefox/&q=EgTPBngcGJvHlb0GIjCwOPO1l4lWmOXH1eT56oVTIr_jVpO7oNYVjITiXgnRHj_nOXomANyOFqM-BfG5_nwyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Firefox/Edg/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Firefox/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Firefox/Firefox/Edg/Edg/&q=EgTPBngcGJ3Hlb0GIjBOQKeXvIvmDRsdtEwNPKYHW6Gzhx1hzW5JIwgELijuPV_4jwoccAyf4vmch5hTx9MyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Firefox/Edg/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Firefox/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Firefox/Firefox/Edg/Firefox/&q=EgTPBngcGJ3Hlb0GIjBrVVleD91f2XdufkeTgkHdXfs64FbECLUOvL17sOghrihUFUr0iOOg9HJDVKZp-r8yAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Firefox/Firefox/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Firefox/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Firefox/Firefox/Firefox/Edg/&q=EgTPBngcGJ7Hlb0GIjDYmKMyTKUGwznbdaJ2TB219QKwSl5SGWpR6OtVOeJ7N9cvv9Nm2OGxXZ3ZbAOG4ZIyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Firefox/Firefox/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,142165m/Firefox/Firefox/Firefox/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,142165m/Firefox/Firefox/Firefox/Firefox/Firefox/&q=EgTPBngcGJ7Hlb0GIjDUH-Zuwe5_z3-vDCjPEzSk4J1SIs6sbBBFjbJSCOs4XD1utRTVQHUzCklEyXw_Ry8yAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Edg/Edg/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Edg/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Edg/Edg/Edg/Edg/&q=EgTPBngcGKDHlb0GIjBXnkjQcC3pV8e5ik9MSbif11nBjhowLV1ASNsL19wQ-AzT8k7lB0fCTfKuAktFQ3QyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Edg/Edg/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Edg/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Edg/Edg/Edg/Firefox/&q=EgTPBngcGKDHlb0GIjDQVMYnwgA2VIvy0dj-Y2UX5fSJ7eejgAVPl4nO3TymziGS4h3AJkH2r_a26yAvUOIyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Edg/Firefox/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Edg/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Edg/Edg/Firefox/Edg/&q=EgTPBngcGKHHlb0GIjBXazolynhW7VyTeLxznDrLAY1Tjc47WuZygH8oxcnYLtu8p4K8cTmCRcqhb8GzshAyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Edg/Firefox/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Edg/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Edg/Edg/Firefox/Firefox/&q=EgTPBngcGKHHlb0GIjDDcVQB9K8NCy_ljLggWP-09biS-8phLgamtFeAv_RLHkZ0USFL2TlJjiY0xvBmnVQyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Firefox/Edg/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Firefox/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Edg/Firefox/Edg/Edg/&q=EgTPBngcGKPHlb0GIjC-ZEIUaI1np_Yf2SvbDwI3oi3hzHKOhb2wkU1RVWpjen-egiJuVG0ghBXDA-JvGvMyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Firefox/Edg/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Firefox/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Edg/Firefox/Edg/Firefox/&q=EgTPBngcGKPHlb0GIjBpYS5oanw3r48I_8v6cxxzUdyAJF4WVfsdIMWwESPC3x24ml49jTdrrwTLJBdwOXgyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Firefox/Firefox/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Firefox/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Edg/Firefox/Firefox/Edg/&q=EgTPBngcGKTHlb0GIjDtkIju2xGszQfIU6PJLabbQF-nXS7iB0TdmChY6Rxpoy9kgwd4OgkSY03PdItPyj4yAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Firefox/Firefox/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Edg/Firefox/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Edg/Firefox/Firefox/Firefox/&q=EgTPBngcGKTHlb0GIjBi0TuCvHQyeWckPEi5EHmIbOkAoj3KOsJnqxcSBgMMqrk7nN8tF0gUPx1J3HsPLdcyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Edg/Edg/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Edg/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Firefox/Edg/Edg/Edg/&q=EgTPBngcGKbHlb0GIjAzARFokvPTfjdSorykKwwe5pVQpwpKgB9RzXWHzScPC-rg2pKmEdWElGo9-lHN8bcyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Edg/Edg/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Edg/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Firefox/Edg/Edg/Firefox/&q=EgTPBngcGKbHlb0GIjBPz9vVIzlc-elsBjc0j0JTMzT9lokRiX6x2fpBFDOdAz7LotIrvM6O8xOfBP0_tUsyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Edg/Firefox/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Edg/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Firefox/Edg/Firefox/Edg/&q=EgTPBngcGKjHlb0GIjAXVS6CrH0YVgjwwBmadgijPAukaRQQ6tOcexomcY9uXzcOWTSY0OYkJLgVkP_vztIyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Edg/Firefox/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Edg/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Firefox/Edg/Firefox/Firefox/&q=EgTPBngcGKjHlb0GIjBNmggr3cgn49SSJ3IowLSTo2axbL0wH3P8cYBR4rTYwQ6MHInzIaJaHrK3c-E56mkyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Firefox/Edg/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Firefox/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Firefox/Firefox/Edg/Edg/&q=EgTPBngcGKnHlb0GIjBEnTY9yRKSGloMEMDMPT84YkUQWEGqE_CPkjdl_4ZXbl5u_yzk5RxD9QObp_vV-ysyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Firefox/Edg/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Firefox/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Firefox/Firefox/Edg/Firefox/&q=EgTPBngcGKrHlb0GIjBMc0ZgRaFJxm0SfU33yzaL-IfT8zWkUVsYX1A2crtEjLVvh_x2Z_TITQW69olhyRoyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Firefox/Firefox/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Firefox/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Firefox/Firefox/Firefox/Edg/&q=EgTPBngcGKvHlb0GIjA5jBWLyCKeM9awPm0OAhqA57ayir535pAYUe_X19lf-eDkjIrlaM69ldY5x06LhIQyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Firefox/Firefox/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Edg/Firefox/Firefox/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Edg/Firefox/Firefox/Firefox/Firefox/&q=EgTPBngcGKvHlb0GIjBPi5ZLzGixDgFpnyp-gBSGyJdY1FWulArlCVbPrXrBAKfHA1gzqTsI_eg6M4r6fk4yAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Edg/Edg/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Edg/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Edg/Edg/Edg/Edg/&q=EgTPBngcGKzHlb0GIjBKT6KMAiDFuQGehaiwBwJonCc4ylBKpt5imjAgplVlnTNGmOfd7RafPWiOw1qKiGcyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Edg/Edg/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Edg/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Edg/Edg/Edg/Firefox/&q=EgTPBngcGK3Hlb0GIjClpiBE2E7Pl1gbDgWZm7GhRwSWPJt27yAc0PU9z5ivO5dI1fF59YIRFlGUAHI_MSkyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Edg/Firefox/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Edg/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Edg/Edg/Firefox/Edg/&q=EgTPBngcGK7Hlb0GIjDzlvizbqM_TrHkcA22smI9A42t-OuDmNzd_Bzds8FJ9gKTuSAjg65VCNl_XWSkzMsyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Edg/Firefox/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Edg/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Edg/Edg/Firefox/Firefox/&q=EgTPBngcGK7Hlb0GIjCtqxhSDrWUt5xXJIwNtHz7N_vpWwvDus5yE_GqiD7WVStzBCJ1PDLKBHIQgj-ck0syAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Firefox/Edg/Edg/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Firefox/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Edg/Firefox/Edg/Edg/&q=EgTPBngcGLDHlb0GIjCLjUOB6TSx202dwS6IzvWmJul-vpckxmtO-Nb4oaK6cRABqMS-54mJq4MQ_6Uqx4YyAXJaAUM
+
+17:36:53	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Firefox/Edg/Firefox/
+
+17:36:53	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Firefox/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Edg/Firefox/Edg/Firefox/&q=EgTPBngcGLDHlb0GIjCFEZRBDN3jn2lNDMpvYwsyk6WSwGa44P2Ntxyv0t7jIhTc6fwU1J_lzr0FBCzBrgMyAXJaAUM
+
+17:36:54	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Firefox/Firefox/Edg/
+
+17:36:54	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Firefox/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Edg/Firefox/Firefox/Edg/&q=EgTPBngcGLHHlb0GIjDNTHLAXAeLCZkmoG_iRcXvX44qv-kNAGwy0AFPVvfZSde0CVTVvKgR3a96GZqProwyAXJaAUM
+
+17:36:54	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Firefox/Firefox/Firefox/
+
+17:36:54	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Edg/Firefox/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Edg/Firefox/Firefox/Firefox/&q=EgTPBngcGLHHlb0GIjAFy9dcn55C6qe7kZxSqFYfoU6KZRxQnRW3D8Te1bnkpxT4ZuRoYFwCQGxfAH7C2mEyAXJaAUM
+
+17:36:54	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Edg/Edg/Edg/
+
+17:36:54	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Edg/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Firefox/Edg/Edg/Edg/&q=EgTPBngcGLPHlb0GIjCAtbNDgc42KYE2GjyoTx9A-RJ7wGx7-bBQ2w8qPMejJNpXTPUpwonSe4ujpm3AOQAyAXJaAUM
+
+17:36:54	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Edg/Edg/Firefox/
+
+17:36:54	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Edg/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Firefox/Edg/Edg/Firefox/&q=EgTPBngcGLPHlb0GIjBn2J-FlgIdYdiuw-YYqSDgzVYIexs5zhrgc-ov3dvk0FkpyJOnmUtj8_A9a3ec04oyAXJaAUM
+
+17:36:54	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Edg/Firefox/Edg/
+
+17:36:54	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Edg/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Firefox/Edg/Firefox/Edg/&q=EgTPBngcGLTHlb0GIjAjI8-Dzeq96a5_1peqszigvGwxJKBFeMitV5f_1OxQOvVQSyPQDV8H_Xo3i2caKcsyAXJaAUM
+
+17:36:54	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Edg/Firefox/Firefox/
+
+17:36:54	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Edg/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Firefox/Edg/Firefox/Firefox/&q=EgTPBngcGLTHlb0GIjBZVrh4FIpx1HOg2npqyBF4C_3uJnP2AQ9dxpfXQmmWesJEJg7Wa2u8k-Fvfu5B1bAyAXJaAUM
+
+17:36:54	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Firefox/Edg/Edg/
+
+17:36:54	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Firefox/Edg/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Firefox/Firefox/Edg/Edg/&q=EgTPBngcGLbHlb0GIjASl2TYrNobNBZvttUdgREZ-MwCWu9nEC3pVwn0V6JcDpTp_ZhvzIxAX_pJQHPeyL4yAXJaAUM
+
+17:36:54	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Firefox/Edg/Firefox/
+
+17:36:54	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Firefox/Edg/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Firefox/Firefox/Edg/Firefox/&q=EgTPBngcGLbHlb0GIjAWOlOkJLU2Kw4RC5g-hnRgWqTp_chLHW0m6X6wGnkTVD861QjOOXCplqPdkPCHZmQyAXJaAUM
+
+17:36:54	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Firefox/Firefox/Edg/
+
+17:36:54	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Firefox/Firefox/Edg/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Firefox/Firefox/Firefox/Edg/&q=EgTPBngcGLfHlb0GIjCHekfVaIRHAd6hC-I8thCEnTQxbB8kDsVuRQvUtIKzuYzCaI51ZFi9yTg-FQZxOvYyAXJaAUM
+
+17:36:54	Warning: 	Found for https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Firefox/Firefox/Firefox/
+
+17:36:54	Warning: 	File has moved from https://www.google.com/maps/place/Northwood+Landscaping/@32.753976,-97.23447,211385m/Firefox/Firefox/Firefox/Firefox/Firefox/ to https://www.google.com/sorry/index?continue=https://www.google.com/maps/place/Big%2BA%2BLandscaping/%4032.753976,-97.23447,211385m/Firefox/Firefox/Firefox/Firefox/Firefox/&q=EgTPBngcGLfHlb0GIjBZcWBRNSbKX2NQfT5S02h3WAsStOVY9GfY0ZcufO_29RyS6umWqU20oFpgW_ZKFIkyAXJaAUM
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 15 seconds : 597 links scanned, 477 files written (286500376 bytes overall), 480 files updated [262811006 bytes received at 530931 bytes/sec], 31115429 bytes transferred using HTTP compression in 288 files, ratio 20%, 1.9 requests per connection
+
+(14 errors, 194 warnings, 0 messages)
+
